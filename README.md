@@ -21,7 +21,7 @@ Testler hem Windows hem de Linux üzerinde yapıldı, sonuçlar neredeyse aynı 
 ## Sonuçlar
 
 ### Bun.js
-<img src="" alt="Bun.js Benchmark Sonucu">
+<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/bunjs.png" alt="Bun.js Benchmark Sonucu">
 
 ### Node.js
-<img src="" alt="Node.js Benchmark Sonucu">
+<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/nodejs.png" alt="Node.js Benchmark Sonucu">
