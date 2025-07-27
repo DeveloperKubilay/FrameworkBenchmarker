@@ -1,0 +1,1 @@
+autocannon -c 500 -d 30 -p 10 http://localhost:3000
