@@ -1,6 +1,6 @@
-# Framework Benchmark Karşılaştırması 🚀🔥
+# Framework Benchmark Comparison 🚀🔥
 
-Bu testte aşağıdaki framework'ler karşılaştırıldı:
+The following frameworks were compared in this test:
 
 - **Node.js Express**
 - **Node.js Fastify**
@@ -9,19 +9,19 @@ Bu testte aşağıdaki framework'ler karşılaştırıldı:
 
 ---
 
-## Sistem Bilgisi 🖥️
+## System Info 🖥️
 
-- **İşlemci:** AMD Ryzen 5 3600 @ 4.3GHz
+- **CPU:** AMD Ryzen 5 3600 @ 4.3GHz
 - **RAM:** Corsair 16GB (8x2) 3200MHz
 
-Testler hem Windows hem de Linux üzerinde yapıldı, sonuçlar neredeyse aynı çıktı.
+Tests were run on both Windows and Linux, results were almost identical.
 
 ---
 
-## Sonuçlar
+## Results
 
 ### Bun.js
-<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/bunjs.png" alt="Bun.js Benchmark Sonucu">
+<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/bunjs.png" alt="Bun.js Benchmark Result">
 
 ### Node.js
-<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/nodejs.png" alt="Node.js Benchmark Sonucu">
+<img src="https://raw.githubusercontent.com/DeveloperKubilay/FrameworkBenchmarker/refs/heads/main/imgs/nodejs.png" alt="Node.js Benchmark Result">
